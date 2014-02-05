@@ -58,7 +58,7 @@
 			<array>
 				<dict>
 					<key>Bounds</key>
-					<string>{{992.57262246016876, 1240.7798151042036}, {57, 13}}</string>
+					<string>{{771.49266640548137, 1165.179914597197}, {57, 13}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -84,7 +84,7 @@
 					<key>ID</key>
 					<integer>114</integer>
 					<key>Rotation</key>
-					<real>270</real>
+					<real>90</real>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -124,7 +124,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{781.49266640548126, 1165.1797713836731}, {37, 13}}</string>
+					<string>{{1002.5726224601689, 1240.7799583177275}, {37, 13}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -150,7 +150,7 @@
 					<key>ID</key>
 					<integer>115</integer>
 					<key>Rotation</key>
-					<real>90</real>
+					<real>270</real>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -190,7 +190,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{820.89260957710553, 1237.9198508977727}, {18.719999313354492, 18.719999313354492}}</string>
+					<string>{{981.45267997518999, 1162.3198794902735}, {18.719999313354492, 18.719999313354492}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -208,7 +208,7 @@
 					<key>ID</key>
 					<integer>116</integer>
 					<key>Rotation</key>
-					<real>270</real>
+					<real>90</real>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -244,7 +244,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{981.45262140629825, 1162.3197841102838}, {18.719999313354492, 18.719999313354492}}</string>
+					<string>{{820.89266814599728, 1237.9199462777624}, {18.719999313354492, 18.719999313354492}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -262,7 +262,7 @@
 					<key>ID</key>
 					<integer>117</integer>
 					<key>Rotation</key>
-					<real>270</real>
+					<real>90</real>
 					<key>Shape</key>
 					<string>Circle</string>
 					<key>Style</key>
@@ -298,7 +298,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{806.49262062911419, 1141.0798633248214}, {208.08000183105469, 136.80000305175781}}</string>
+					<string>{{806.49266640548115, 1141.0798633248214}, {208.08000183105469, 136.80000305175781}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -310,8 +310,6 @@
 					</dict>
 					<key>ID</key>
 					<integer>118</integer>
-					<key>Rotation</key>
-					<real>180</real>
 					<key>Shape</key>
 					<string>Rectangle</string>
 					<key>Style</key>
@@ -346,8 +344,6 @@
 			</array>
 			<key>ID</key>
 			<integer>113</integer>
-			<key>Rotation</key>
-			<real>180</real>
 		</dict>
 		<dict>
 			<key>Class</key>
@@ -3687,7 +3683,7 @@ LIGHT}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2014-02-05 04:19:09 +0000</string>
+	<string>2014-02-05 04:28:56 +0000</string>
 	<key>Modifier</key>
 	<string>Seth Battis</string>
 	<key>NotesVisible</key>
